@@ -3,3 +3,4 @@ hello world!
 change!
 change twice!
 test stage and master!
+git tracks changes!
