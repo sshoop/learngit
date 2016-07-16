@@ -4,3 +4,4 @@ change!
 change twice!
 test stage and master!
 git tracks changes!
+git tracks changes twice!
